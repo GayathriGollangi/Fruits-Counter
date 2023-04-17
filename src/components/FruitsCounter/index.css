@@ -1,0 +1,44 @@
+/* Write your CSS here */
+body {
+  background-color: #ffd569;
+}
+.container {
+  margin: 0px;
+  text-align: center;
+  height: 90vh;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 400px;
+}
+.heading {
+  text-align: center;
+}
+.banana-counter {
+  color: #ffd569;
+}
+.mango-counter {
+  color: #ffd569;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.btn {
+  background-color: #007bff;
+  color: white;
+  border-width: 1px;
+  border-color: #007bff;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 5px;
+}
